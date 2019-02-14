@@ -1,4 +1,4 @@
-## lib  知识库管理系统 
+## lib  知识库管理系统 。需要在电脑上安装OpenOffice 4，并要替换TranslateUtils.java中的OpenOffice 4的安装目录。
 >这是我大三暑假（2016年）参加第五届中国软件杯项目的源码。由三人团队完成（Yu yufeng\Zhou changqin\Liu chenzhe）
 此作品获得了本科组*全国二等奖*
 ## SOKLIB知识库管理系统功能总览  
